@@ -29,10 +29,10 @@ http://localhost:3000/{alias}
 
 ## Project Criteria
 
-- [*] The application runs locally without any crashes
-- [*] The application logic is implemented correctly
-- [*] The application uses server-side rendering
-- [*] The application uses a MongoDB database
+- [x] The application runs locally without any crashes
+- [x] The application logic is implemented correctly
+- [x] The application uses server-side rendering
+- [x] The application uses a MongoDB database
 
 # How to run
 first use
