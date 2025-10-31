@@ -1,8 +1,4 @@
-# URL Shortener App
 
-This is starter code for URL Shortener Project.
-
-Fork this repository and use the given files to start with.
 
 ## Idea
 
@@ -33,14 +29,18 @@ http://localhost:3000/{alias}
 
 ## Project Criteria
 
-- [ ] The application runs locally without any crashes
-- [ ] The application logic is implemented correctly
-- [ ] The application uses server-side rendering
-- [ ] The application uses a MongoDB database
+- [*] The application runs locally without any crashes
+- [*] The application logic is implemented correctly
+- [*] The application uses server-side rendering
+- [*] The application uses a MongoDB database
 
-## Project Evaluation (50 pts.)
-
-* Project Completeness (25 pts.)
-* Clean Code and Modulation (15 pts.)
-* Descriptive Git Commit Messages (10 pts.)
-* Nice touches (5 pts. bonus)
+# How to run
+first use
+```
+npm install
+```
+to install the packages
+then run the command
+```
+node ./bin/wwww
+```
